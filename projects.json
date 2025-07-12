@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Sales Dashboard",
+    "description": "Analyzed sales data to identify trends and forecast revenue.",
+    "link": "https://example.com/sales-dashboard"
+  },
+  {
+    "title": "Customer Segmentation",
+    "description": "Used clustering algorithms to group customers based on purchasing behavior.",
+    "link": "https://example.com/customer-segmentation"
+  },
+  {
+    "title": "Market Basket Analysis",
+    "description": "Discovered product associations to improve cross-selling strategies.",
+    "link": "https://example.com/market-basket"
+  }
+]
+

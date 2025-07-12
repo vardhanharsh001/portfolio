@@ -1,0 +1,12 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.gold-text {
+  color: #FFD700;
+}
+
+.section-title {
+  @apply text-xl font-semibold mb-2 gold-text;
+}
+
